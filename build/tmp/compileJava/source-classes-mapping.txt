@@ -1,0 +1,4 @@
+com/treehouse/giflib/AppConfig.java
+ com.treehouse.giflib.AppConfig
+com/treehouse/giflib/controller/GifController.java
+ com.treehouse.giflib.controller.GifController

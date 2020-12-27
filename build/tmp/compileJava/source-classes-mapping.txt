@@ -1,4 +1,14 @@
+com/treehouse/giflib/model/Gif.java
+ com.treehouse.giflib.model.Gif
+com/treehouse/giflib/model/Category.java
+ com.treehouse.giflib.model.Category
 com/treehouse/giflib/AppConfig.java
  com.treehouse.giflib.AppConfig
+com/treehouse/giflib/data/GifRepository.java
+ com.treehouse.giflib.data.GifRepository
+com/treehouse/giflib/data/CategoryRepository.java
+ com.treehouse.giflib.data.CategoryRepository
+com/treehouse/giflib/controller/CategoryController.java
+ com.treehouse.giflib.controller.CategoryController
 com/treehouse/giflib/controller/GifController.java
  com.treehouse.giflib.controller.GifController
